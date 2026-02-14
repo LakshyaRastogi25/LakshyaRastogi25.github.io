@@ -7,3 +7,21 @@ theme = 'PaperMod'
     defaultTheme = "dark"
     ShowReadingTime = true
     ShowCodeCopyButtons = true
+    
+    [params.profileMode]
+    enabled = true
+    title = "Lakshya Rastogi"
+    subtitle = "Offensive Security Portfolio | CPTS Candidate"
+    imageUrl = "https://github.com/LakshyaRastogi25.png"
+    imageTitle = "My Avatar"
+    imageWidth = 120
+    imageHeight = 120
+    
+    [[params.profileMode.buttons]]
+    name = "My CPTS Journey"
+    url = "/posts/my-cpts-journey"
+
+    [[params.profileMode.buttons]]
+    name = "GitHub"
+    url = "https://github.com/LakshyaRastogi25"
+
