@@ -1,19 +1,3 @@
-+++
-date = '2026-02-14T13:20:28Z'
-draft = true
-title = 'About'
-+++
-
----
-title: "About Me"
-layout: "about"
-summary: "about"
-hidemeta: true
-comments: false
-disableShare: true
-draft: false
----
-
 # Welcome
 
 I am a final-year Computer Science student with a deep interest in cybersecurity. Over the past two years, I’ve spent my time outside of class building a practical foundation in offensive security, moving from solving labs to understanding how real networks are secured.
