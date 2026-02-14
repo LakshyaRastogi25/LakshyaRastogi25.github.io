@@ -1,0 +1,9 @@
+baseURL = 'https://LakshyaRastogi25.github.io/'
+languageCode = 'en-us'
+title = 'Portfolio | Lakshya Rastogi'
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = "dark"
+    ShowReadingTime = true
+    ShowCodeCopyButtons = true
