@@ -48,3 +48,7 @@ theme = 'PaperMod'
     name = "Engagement Reports"
     url = "/reports/"
     weight = 30
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
