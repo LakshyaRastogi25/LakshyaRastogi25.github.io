@@ -25,8 +25,4 @@ The assessment identified **3 material findings**, culminating in a critical att
 ### Download Full Report
 This report was generated using **SysReptor** to simulate a corporate deliverable.
 
-<div align="center">
-  <a href="/reports/mantis-engagement-report.pdf" style="background-color: #3b82f6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    Download Professional PDF Report
-  </a>
-</div>
+👉 **[Download Professional PDF Report](/reports/mantis-engagement-report.pdf)**
