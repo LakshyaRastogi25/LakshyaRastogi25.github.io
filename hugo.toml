@@ -28,3 +28,22 @@ theme = 'PaperMod'
     [[params.profileMode.buttons]]
     name = "About Me"
     url = "/about/"
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "posts"
+name = "Blog"
+url = "/posts/"
+weight = 20
+
+[[menu.main]]
+identifier = "reports"
+name = "Engagement Reports"
+url = "/reports/"
+weight = 30
