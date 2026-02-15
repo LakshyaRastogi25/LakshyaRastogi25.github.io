@@ -5,8 +5,10 @@ summary: "Full PDF Report"
 ---
 
 <style>
-  /* Allows the PDF to stretch to the very edges of the screen */
-  .main { max-width: 100%; margin: 0; padding: 0; }
+  /* This ensures the page background is clean but doesn't stretch the report too wide */
+  .main { margin: 0 auto; padding: 0; }
 </style>
 
-<embed src="/reports/mantis-engagement-report.pdf.pdf#toolbar=0&navpanes=0&view=FitH" width="100%" height="1200px" type="application/pdf" />
+<div align="center">
+    <embed src="/reports/mantis-engagement-report.pdf.pdf#toolbar=0&navpanes=0&view=FitH" width="85%" height="1200px" type="application/pdf" style="border: 1px solid #333; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
+</div>
