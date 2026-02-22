@@ -7,53 +7,51 @@ theme = 'PaperMod'
   name = "Lakshya Rastogi"
 
 [params]
-    defaultTheme = "dark"
-    ShowReadingTime = true
-    ShowCodeCopyButtons = true
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
 
-    [params.profileMode]
-    enabled = true
+  [params.profileMode]
+  enabled = true
+  title = "Lakshya Rastogi"
+  subtitle = "Offensive Security Portfolio | CPTS Candidate"
+  imageUrl = "https://github.com/LakshyaRastogi25.png"
+  imageTitle = "My Avatar"
+  imageWidth = 120
+  imageHeight = 120
 
-    [params.profileMode]
-    enabled = true
-    title = "Lakshya Rastogi"
-    subtitle = "Offensive Security Portfolio | CPTS Candidate"
-    imageUrl = "https://github.com/LakshyaRastogi25.png"
-    imageTitle = "My Avatar"
-    imageWidth = 120
-    imageHeight = 120
+  [[params.profileMode.buttons]]
+  name = "My CPTS Journey"
+  url = "/posts/my-cpts-journey"
 
-    [[params.profileMode.buttons]]
-    name = "My CPTS Journey"
-    url = "/posts/my-cpts-journey"
+  [[params.profileMode.buttons]]
+  name = "GitHub"
+  url = "https://github.com/LakshyaRastogi25"
 
-    [[params.profileMode.buttons]]
-    name = "GitHub"
-    url = "https://github.com/LakshyaRastogi25"
-
-    [[params.profileMode.buttons]]
-    name = "About Me"
-    url = "/about/"
+  [[params.profileMode.buttons]]
+  name = "About Me"
+  url = "/about/"
 
 # --- Main Menu Configuration ---
 
 [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 10
 
 [[menu.main]]
-    identifier = "posts"
-    name = "Blog"
-    url = "/posts/"
-    weight = 20
+  identifier = "posts"
+  name = "Blog"
+  url = "/posts/"
+  weight = 20
 
 [[menu.main]]
-    identifier = "reports"
-    name = "Engagement Reports"
-    url = "/reports/"
-    weight = 30
+  identifier = "reports"
+  name = "Engagement Reports"
+  url = "/reports/"
+  weight = 30
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
