@@ -7,12 +7,12 @@ theme = 'PaperMod'
   name = "Lakshya Rastogi"
 
 [params]
-  defaultTheme = "dark"
-
-[params]
     defaultTheme = "dark"
     ShowReadingTime = true
     ShowCodeCopyButtons = true
+
+    [params.profileMode]
+    enabled = true
 
     [params.profileMode]
     enabled = true
