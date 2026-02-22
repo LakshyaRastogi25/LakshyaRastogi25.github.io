@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = 'Portfolio | Lakshya Rastogi'
 theme = 'PaperMod'
 
+[author]
+  name = "Lakshya Rastogi"
+
+[params]
+  defaultTheme = "dark"
+
 [params]
     defaultTheme = "dark"
     ShowReadingTime = true
