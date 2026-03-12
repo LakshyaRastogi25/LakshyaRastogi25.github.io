@@ -1,6 +1,6 @@
 baseURL = 'https://LakshyaRastogi25.github.io/'
 languageCode = 'en-us'
-title = 'Portfolio | Lakshya Rastogi'
+title = 'Lakshya Rastogi'
 theme = 'PaperMod'
 
 [params]
@@ -9,18 +9,18 @@ theme = 'PaperMod'
   ShowReadingTime = true
   ShowCodeCopyButtons = true
 
-  [params.profileMode]
-  enabled = true
-  title = "Lakshya Rastogi"
-  subtitle = "Offensive Security Portfolio | CPTS Candidate"
-  imageUrl = "https://github.com/LakshyaRastogi25.png"
-  imageTitle = "My Avatar"
-  imageWidth = 120
-  imageHeight = 120
+    [params.profileMode]
+    enabled = true
+    title = "Lakshya Rastogi"
+    subtitle = "Offensive Security Portfolio | CPTS Candidate"
+    imageUrl = "https://github.com/LakshyaRastogi25.png"
+    imageTitle = "My Avatar"
+    imageWidth = 120
+    imageHeight = 120
 
-  [[params.profileMode.buttons]]
-  name = "My CPTS Journey"
-  url = "/posts/my-cpts-journey"
+    [[params.profileMode.buttons]]
+    name = "My CPTS Journey"
+    url = "/posts/my-cpts-journey"
 
   [[params.profileMode.buttons]]
   name = "GitHub"
@@ -37,6 +37,12 @@ theme = 'PaperMod'
   name = "About"
   url = "/about/"
   weight = 10
+
+[[menu.main]]
+    identifier = "cpts-journey"
+    name = "My CPTS Journey"
+    url = "/posts/my-cpts-journey"
+    weight = 40
 
 [[menu.main]]
   identifier = "posts"
