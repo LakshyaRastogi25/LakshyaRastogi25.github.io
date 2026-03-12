@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lakshya Rastogi</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Lakshya Rastogi</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Engagement: Checker</title>
+      <link>http://localhost:1313/reports/linux/checker/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reports/linux/checker/</guid>
+      <description>Full PDF Report</description>
+    </item>
+    <item>
+      <title>Engagement: Cypher</title>
+      <link>http://localhost:1313/reports/linux/cypher/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reports/linux/cypher/</guid>
+      <description>Full PDF Report</description>
+    </item>
+    <item>
+      <title>Engagement: Luke</title>
+      <link>http://localhost:1313/reports/windows/luke/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reports/windows/luke/</guid>
+      <description>Full PDF Report</description>
+    </item>
+    <item>
+      <title>Engagement: Reel</title>
+      <link>http://localhost:1313/reports/windows/reel/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reports/windows/reel/</guid>
+      <description>Full PDF Report</description>
+    </item>
+    <item>
+      <title>Engagement: Fulcrum</title>
+      <link>http://localhost:1313/reports/windows/fulcrum/</link>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reports/windows/fulcrum/</guid>
+      <description>Full PDF Report</description>
+    </item>
+    <item>
+      <title>Engagement: Mantis</title>
+      <link>http://localhost:1313/reports/windows/mantis/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reports/windows/mantis/</guid>
+      <description>Full PDF Report</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;
+&lt;p&gt;I am a final-year Computer Science student with a deep interest in cybersecurity. Over the past two years, I’ve spent my time outside of class building a practical foundation in offensive security, moving from solving labs to understanding how real networks are secured.&lt;/p&gt;
+&lt;h3 id=&#34;my-background&#34;&gt;My Background&lt;/h3&gt;
+&lt;p&gt;While my university coursework gave me a strong computer science base, my passion for security led me to pursue the HTB Certified Penetration Testing Specialist (CPTS). Passing this exam was a major milestone for me. It was a rigorous, multi-day assessment that taught me the importance of patience, methodology, and clear reporting.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

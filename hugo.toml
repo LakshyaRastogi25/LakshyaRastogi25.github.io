@@ -6,11 +6,12 @@ theme = 'PaperMod'
 [params]
   author = "Lakshya Rastogi"
   defaultTheme = "dark"
+  mainSections = ["posts"]
   ShowReadingTime = true
   ShowCodeCopyButtons = true
 
     [params.profileMode]
-    enabled = true
+    enabled = false
     title = "Lakshya Rastogi"
     subtitle = "Offensive Security Portfolio | CPTS Candidate"
     imageUrl = "https://github.com/LakshyaRastogi25.png"
@@ -18,17 +19,26 @@ theme = 'PaperMod'
     imageWidth = 120
     imageHeight = 120
 
-    [[params.profileMode.buttons]]
-    name = "My CPTS Journey"
-    url = "/posts/my-cpts-journey"
+    [params.homeInfoParams]
+    Title = "whoami"
+    Content = """
+    Welcome to my digital workspace. I'm a computer science student specializing in offensive security and penetration testing. 
 
-  [[params.profileMode.buttons]]
-  name = "GitHub"
-  url = "https://github.com/LakshyaRastogi25"
+    Here, I document my methodologies, from dissecting Web LLM vulnerabilities to writing commercial-grade engagement reports. 
 
-  [[params.profileMode.buttons]]
-  name = "About Me"
-  url = "/about/"
+    If you're new here, feel free to check out my <a href="/about/">About Me</a> page or browse my CPTS Journey <a href="/posts/my-cpts-journey/">CPTS Journey</a> updates.
+    """
+    [[params.socialIcons]]
+      name = "github"
+      url = "https://github.com/LakshyaRastogi25"
+
+    [[params.socialIcons]]
+      name = "linkedin"
+      url = "https://linkedin.com/in/lakshya-rastogi-0446a527b/"
+
+    [[params.socialIcons]]
+      name = "hackthebox"
+      url = "https://app.hackthebox.com/users/1978596"
 
 # --- Main Menu Configuration ---
 
