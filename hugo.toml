@@ -21,15 +21,12 @@ theme = 'PaperMod'
 
     [params.homeInfoParams]
     Title = "whoami"
-    Content = """
-    ![Lakshya Rastogi](https://github.com/LakshyaRastogi25.png?size=120)
-
-    Welcome to my digital workspace. I'm a computer science student specializing in offensive security and penetration testing. 
-
-    Here, I document my methodologies, from dissecting Web LLM vulnerabilities to writing commercial-grade engagement reports. 
-
-    If you're new here, feel free to check out my [About Me](/about/) page or browse my latest [CPTS Journey](/posts/my-cpts-journey/) updates.
-    """
+    Content = "![Lakshya Rastogi](https://github.com/LakshyaRastogi25.png?size=120)
+    Welcome to my digital workspace. I'm a computer science student specializing in offensive security and penetration testing.
+    
+    Here, I document my methodologies, from dissecting Web LLM vulnerabilities to writing commercial-grade engagement reports.
+    
+    If you're new here, feel free to check out my [About Me](/about/) page or browse my latest [CPTS Journey](/posts/my-cpts-journey/) updates."
     [[params.socialIcons]]
       name = "github"
       url = "https://github.com/LakshyaRastogi25"
