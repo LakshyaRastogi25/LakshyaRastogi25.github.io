@@ -10,7 +10,7 @@ tags: ["AI Security", "Prompt Injection", "OWASP LLM Top 10", "LangChain", "Grad
 
 **Quick Links:**
 * **Source Code:** [View on GitHub (vulnerable-rag-agent)](https://github.com/LakshyaRastogi25/vulnerable-rag-agent)
-* **Author:** [Connect with Lakshya Rastogi on LinkedIn](www.linkedin.com/in/lakshya-rastogi-0446a527b)
+* **Author:** [Connect with Lakshya Rastogi on LinkedIn](https://www.linkedin.com/in/lakshya-rastogi-0446a527b)
 
 ## Executive Summary: The AI Blind Spot
 
