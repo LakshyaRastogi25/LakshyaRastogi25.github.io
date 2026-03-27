@@ -21,7 +21,7 @@ theme = 'PaperMod'
 
     [params.homeInfoParams]
     Title = "whoami"
-    Content = "Welcome to my digital workspace. I'm a computer science student specializing in offensive security and penetration testing.\n\nHere, I document my methodologies, from dissecting Web LLM vulnerabilities to writing commercial-grade engagement reports.\n\nIf you're new here, feel free to check out my [About Me](/about/) page or browse my latest [Projects](/projects/)."
+    Content = "Welcome to my digital workspace. I'm a computer science student specializing in offensive security and penetration testing.\n\nHere, I document my methodologies, from dissecting Web LLM vulnerabilities to writing commercial-grade engagement reports.\n\nIf you're new here, feel free to check out my [About Me](/about/) page or browse my latest [Projects](/projects)."
 
     [[params.socialIcons]]
       name = "github"
@@ -52,7 +52,7 @@ theme = 'PaperMod'
 [[menu.main]]
     identifier = "cpts-journey"
     name = "My CPTS Journey"
-    url = "/posts/my-cpts-journey"
+    url = "/my-cpts-journey"
     weight = 50
 
 [[menu.main]]
