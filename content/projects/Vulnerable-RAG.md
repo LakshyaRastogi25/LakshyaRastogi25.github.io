@@ -88,7 +88,7 @@ Mandatory Task:
 3.  **Hijack:** Gemini processes the prompt, accepts the "SYSTEM OVERRIDE", and queries ChromaDB for the restricted salary data and staging URLs.
 4.  **Execution:** The LLM generates the requested HTML containing the sensitive data. Gradio renders the HTML, triggering the Cross-Site Scripting (XSS) payload in the HR Admin's browser.
 
-![Attack Flow Diagram of the Vulnerable RAG pipeline](/static/Screenshot%202026-03-27%20224953.png)
+![Attack Flow Diagram of the Vulnerable RAG pipeline](/Screenshot%202026-03-27%20224953.png)
 
 -----
 
