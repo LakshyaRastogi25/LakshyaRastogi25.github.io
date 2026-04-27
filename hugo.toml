@@ -49,11 +49,6 @@ theme = 'PaperMod'
   url = "/projects/"
   weight = 30
 
-[[menu.main]]
-    identifier = "cpts-journey"
-    name = "My CPTS Journey"
-    url = "/my-cpts-journey/"
-    weight = 50
 
 [[menu.main]]
   identifier = "posts"
