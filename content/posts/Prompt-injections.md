@@ -1,6 +1,5 @@
 ---
 title: "The Anatomy of a Prompt Injection: Direct, Indirect, and Jailbreaks"
-date: 2026-03-26
 draft: false 
 tags: ["AI Security", "Red Teaming", "LLM", "penetration testing", "OWASP"]
 ---

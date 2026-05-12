@@ -1,6 +1,5 @@
 ---
 title: "Engagement: Cypher"
-date: 2026-02-24
 summary: "Full PDF Report"
 ---
 <style>

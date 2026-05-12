@@ -1,6 +1,5 @@
 ---
 title: "Engagement: Mantis"
-date: 2026-02-15
 summary: "Full PDF Report"
 ---
 

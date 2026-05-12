@@ -1,6 +1,5 @@
 ---
 title: "Engagement: Fulcrum"
-date: 2026-02-22
 summary: "Full PDF Report"
 ---
 <style>

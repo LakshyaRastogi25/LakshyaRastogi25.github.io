@@ -1,6 +1,5 @@
 ---
 title: "The AI Integration Risk: Security Consequences of Rapid LLM and ML Adoption"
-date: 2026-03-22
 draft: false 
 tags: ["AI Security", "Red Teaming", "LLM", "penetration testing", "OWASP"]
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Engagement: Luke"
-date: 2026-02-23
 summary: "Full PDF Report"
 ---
 <style>

@@ -1,6 +1,5 @@
 ---
 title: "Exploiting an Enterprise AI: Chaining Vulnerabilities in a RAG HR Gateway"
-date: 2026-03-27T10:45:00+05:30
 draft: false
 author: "Lakshya Rastogi"
 description: "A deliberately vulnerable Retrieval-Augmented Generation (RAG) application built to demonstrate Indirect Prompt Injection, Insecure output handling and sensitive data exposure"
