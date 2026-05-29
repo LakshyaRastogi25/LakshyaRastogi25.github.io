@@ -20,5 +20,5 @@ I am currently seeking an entry-level opportunity as a Junior Penetration Tester
 
 ### Connect with me
 
-* **LinkedIn:** [Lakshya Rastogi](https://www.linkedin.com/in/lakshya-rastogi-0446a527b/)
+* **LinkedIn:** [Lakshya Rastogi](https://www.linkedin.com/in/lakshya-rastogi-sec/)
 * **Email:** [lakshyarastogi483@gmail.com](mailto:lakshyarastogi483@gmail.com)
