@@ -29,7 +29,7 @@ theme = 'PaperMod'
 
     [[params.socialIcons]]
       name = "linkedin"
-      url = "https://linkedin.com/in/lakshya-rastogi-0446a527b/"
+      url = "https://linkedin.com/in/lakshya-rastogi-sec/"
 
     [[params.socialIcons]]
       name = "hackthebox"
