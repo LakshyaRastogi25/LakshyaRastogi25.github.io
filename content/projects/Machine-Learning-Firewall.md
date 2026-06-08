@@ -97,5 +97,5 @@ However, when routing the exact same attack through the MLAF on port 8000, the F
 
 Deploying ML models requires more than just wrapping a `.joblib` file in a FastAPI endpoint. By applying an offensive cybersecurity mindset to application architecture, we can build robust, active defenses that protect the business logic from adversarial manipulation.
 
-**🔗 [View the full source code and Docker setup on GitHub**](https://www.google.com/search?q=https://github.com/lakshyarastogi25/machine-learning-application-firewall)
+**🔗 [View the full source code and Docker setup on GitHub**](https://github.com/LakshyaRastogi25/Machine-Learning-Application-Firewall)
 
