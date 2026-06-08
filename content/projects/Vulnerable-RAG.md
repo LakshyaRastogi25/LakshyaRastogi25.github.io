@@ -1,10 +1,9 @@
 ---
-title: "Exploiting an Enterprise AI: Chaining Vulnerabilities in a RAG HR Gateway"
+title: "Building an Active Machine Learning Application Firewall (MLAF)"
 draft: false
-author: "Lakshya Rastogi"
-description: "A deliberately vulnerable Retrieval-Augmented Generation (RAG) application built to demonstrate Indirect Prompt Injection, Insecure output handling and sensitive data exposure"
-categories: ["AI Red Teaming", "Offensive Security", "Application Security"]
-tags: ["AI Security", "Prompt Injection", "OWASP LLM Top 10", "LangChain", "Gradio", "XSS"]
+tags: ["AI Security", "Adversarial ML", "Python", "FastAPI", "Offensive Security", "Docker"]
+categories: ["Projects"]
+summary: "An inline, active-defense proxy neutralizing adversarial ML payloads before they reach production inference APIs."
 ---
 
 **Quick Links:**

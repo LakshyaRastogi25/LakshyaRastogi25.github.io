@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Building an Active Machine Learning Application Firewall (MLAF)"
 draft: false
